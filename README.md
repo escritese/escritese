@@ -1,4 +1,4 @@
-<a href="https://hits.sh/github.com/escritese/"><img alt="Hits" src="https://hits.sh/github.com/escritese.svg?label=Burn&extraCount=5708&color=000000&labelColor=501515"/></a>
+[![Hits](https://hits.sh/github.com/escritese.svg?label=meatballs&extraCount=7525&color=91b814&labelColor=020202)](https://hits.sh/github.com/escritese/)
 
 <a href="https://jimmyiktt.atabook.org/" target="_blank">ata</a>
 <p align="center">
