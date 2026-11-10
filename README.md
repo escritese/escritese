@@ -3,6 +3,6 @@
 <a href="https://jimmyiktt.atabook.org/" target="_blank">ata</a>
 <p align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&speed=400&pause=100&color=D42912&center=true&vCenter=true&width=600&lines=I+regret+nothing.;Shake+it+up%2C+baby!;Damn+I%E2%80%99m+good!" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&speed=400&pause=100&color=D42912&center=true&vCenter=true&width=600&lines=You+realize+you're+still+a+coward%2C+right%3F;You+still+framed+me.;You+still+killed+all+of+these+people;and+you+did+it+while+you+were;hiding+yourself+from+the+server." alt="Typing SVG" />
 
 </p>
